@@ -11,3 +11,4 @@ Incluye:
 - Diseño responsive
 
 
+<!-- Forzar regeneración de GitHub Pages -->
